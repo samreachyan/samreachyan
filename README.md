@@ -2,10 +2,10 @@
 
 <p align="center">
     
-![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
-![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
-![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/samreachyan/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/samreachyan/README.md)
+![GitHub stars](https://img.shields.io/github/stars/samreachyan/README.md?style=social)
+![GitHub forks](https://img.shields.io/github/forks/samreachyan/README.md?style=social)
 
 </p>
 
