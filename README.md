@@ -18,7 +18,7 @@ Check out my [Project 2](http://samreach.tk)
 * Trường Hữu Nghị 80 ([Vietnamese-language](https://www.huunghi80.edu.vn)) : 2016 - 2017
 * Institute of Technology of Cambodia ([ITC](http://www.itc.edu.kh/en/)) : 2015 - 2016
 
-## 🚀 Development Environment
+## 🚀 Develop Environment
 
 * VS Studio Code
 * Ubuntu linux
