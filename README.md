@@ -17,9 +17,9 @@
     <a href="https://twitter.com/FranckAbgrall">
         <img alt="Twitter: FranckAbgrall" src="https://img.shields.io/twitter/follow/FranckAbgrall.svg?style=social" target="_blank" />
     </a>
+</p>
     ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
     ![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
     ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
     ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
-</p>
 
