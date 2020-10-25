@@ -2,7 +2,7 @@
 
 ![My Profile](https://github.com/samreachyan/samreachyan/blob/master/me.jpg?raw=true)
 
-Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram]('[https://](https://www.instagram.com/yansamreach)') 🐿
+Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.instagram.com/yansamreach) 🐿
 <br>Email: samreachyan@gmail.com 💌
 
 ## 🚀 Development Environment
