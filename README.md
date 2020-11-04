@@ -4,9 +4,6 @@
 
 ![samreachyan's github stats](https://github-readme-stats.vercel.app/api?username=samreachyan&count_private=true&show_icons=true&theme=buefy&card_width=1800)
 
-Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.instagram.com/yansamreach) 🐿
-<br>Email: samreachyan@gmail.com 💌
-
 ## 🚀 Development Environment
 
 * IDE: VS Code ☕
@@ -23,7 +20,12 @@ Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.i
 
 ## 💟 Top repos: 
 
-|  `My favor repos :` | |
+|  *`My favor repos :`* | |
 |:--:|:--:|
 |  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samreachyan&repo=BKCodes&theme=nightowl) | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samreachyan&repo=bash-guide&theme=react)  | 
 |  ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samreachyan&repo=project-two&theme=react) | ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=samreachyan&repo=samreachyan&theme=nightowl)  | 
+
+
+## 📱 Contact
+Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.instagram.com/yansamreach) 🐿
+<br>Email: samreachyan@gmail.com 💌
