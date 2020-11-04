@@ -1,6 +1,9 @@
 <h1 align="center"> 🦥 Hi, welcome to Github! 👋👋 </h1>
 
-![My Profile](https://github.com/samreachyan/samreachyan/blob/master/me.jpg?raw=true)
+<!-- ![My Profile](https://github.com/samreachyan/samreachyan/blob/master/me.jpg?raw=true) -->
+
+![samreachyan's github stats](https://github-readme-stats.vercel.app/api?username=samreachyan&count_private=true&show_icons=true&theme=buefy)
+
 
 Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.instagram.com/yansamreach) 🐿
 <br>Email: samreachyan@gmail.com 💌
@@ -11,6 +14,8 @@ Social Media: [Facebook](https://fb.me/yan.samreach) | [Instagram](https://www.i
 * Operation System: Ubuntu - linux 🐧💓
 * Framework: Laravel 🎁
 * Data structure and algorithsm: C/C++ 😍
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samreachyan)
 
 ## 🛩 Interesting
 > Adventure trip 🏞 🌄
