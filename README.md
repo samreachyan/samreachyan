@@ -2,6 +2,9 @@
 
 Hello 👋👋👋 It's [@samreachyan](https://in.linkedin.com/in/samreachyan)
 
+- 🔭 I’m currently working at [Metfone](https://www.metfone.com.kh) in the Software Developement Department
+- 🌱 I’m currently learning more on AWS DevOps Practices and Web Development 
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ## Languages
