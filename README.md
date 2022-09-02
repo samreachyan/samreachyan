@@ -2,8 +2,9 @@
 
 Hello 👋👋👋 It's [@samreachyan](https://in.linkedin.com/in/samreachyan)
 
-- 🔭 I’m currently working at [Metfone](https://www.metfone.com.kh) in the Software Developement Department
-- 🌱 I’m currently learning more on AWS DevOps Practices and Web Development 
+- 🔭 I’m currently working at [Metfone](https://www.metfone.com.kh) in the Software Development Department
+- 🌱 I’m currently learning more on AWS DevOps Practices and Web Development as Java Developer
+- 🏋️‍♂️ Daily practise Struts, Hibernate, Thread, Oracle DB (Procedures, SQL), Restful API, SOAP API => Deployment
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
