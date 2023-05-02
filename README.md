@@ -2,9 +2,9 @@
 
 Hello 👋👋👋 It's [@samreachyan](https://in.linkedin.com/in/samreachyan)
 
-- 🔭 I’m currently working at [Metfone](https://www.metfone.com.kh) in the Software Development Department
-- 🌱 I’m currently learning more on AWS DevOps Practices and Web Development as Java Developer
-- 🏋️‍♂️ Daily practise Struts, Hibernate, Thread, Oracle DB (Procedures, SQL), Restful API, SOAP API => Deployment
+- 🔭 I’m currently working at [FTB](https://ftbbank.com.kh) in the Digital Banking Department.
+- 🌱 I’m currently learning more on Machine Learning and Backend as Java Developer.
+- 🏋️‍♂️ Daily practise Spring boot, Spring Cloud, ..., Oracle DB (Procedures, SQL), Restful API, SOAP API.
 
 <img align="right" alt="GIF" src="https://github.com/samreachyan/samreachyan/raw/master/me.jpg" width="500" height="300" />
 
