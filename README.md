@@ -2,7 +2,6 @@
 
 Hello 👋👋👋 It's [@samreachyan](https://in.linkedin.com/in/samreachyan)
 
-- 🔭 I’m currently working at [FTB](https://ftbbank.com.kh) in the Digital Banking Department.
 - 🌱 I’m currently learning more on Machine Learning and Backend as Java Developer.
 - 🏋️‍♂️ Daily practise Spring boot, Spring Cloud, ..., Oracle DB (Procedures, SQL), Restful API, SOAP API.
 
