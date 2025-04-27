@@ -1,6 +1,6 @@
 <!-- ![My Profile](https://github.com/samreachyan/samreachyan/blob/master/me.jpg?raw=true) -->
 
-Hello 👋👋👋 It's [@samreachyan](https://in.linkedin.com/in/samreachyan)
+Hello 👋👋👋 This is [@Samreach (Reach)](https://in.linkedin.com/in/samreachyan), experienced Software Engineer with 3+ years in Java, Spring Boot and microservices architecture. I’m seeking a challenging role to apply my skills in building efficient, scalable, and maintainable software solutions that enhance business operations and improve user experience. Passionate about delivering clean, efficient code, collaborating with teams, and continuously learning to stay ahead of industry trends.
 
 ## Languages
 
