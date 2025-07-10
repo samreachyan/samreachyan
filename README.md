@@ -1,6 +1,13 @@
 <!-- ![My Profile](https://github.com/samreachyan/samreachyan/blob/master/me.jpg?raw=true) -->
 
-Hello 👋👋👋 This is [@Samreach (Reach)](https://in.linkedin.com/in/samreachyan), experienced Software Engineer with 3+ years in Java, Spring Boot and microservices architecture. I’m seeking a challenging role to apply my skills in building efficient, scalable, and maintainable software solutions that enhance business operations and improve user experience. Passionate about delivering clean, efficient code, collaborating with teams, and continuously learning to stay ahead of industry trends.
+Hello 👋👋👋 This is [@Samreach (Reach)](https://in.linkedin.com/in/samreachyan), experienced Software Engineer with 4+ years in Java, Spring Boot and microservices architecture. 
+
+My skills in building efficient, scalable, and maintainable software solutions that enhance business operations and improve user experience. Passionate about delivering clean, efficient code, collaborating with teams, and continuously learning to stay ahead of industry trends.
+
+I’d love to offer consulting services or join an interesting project — let’s connect!
+- LinkedIn: [Samreach Yan](https://www.linkedin.com/in/samreachyan/)
+- Email: samreachyan@gmail.com
+- Telegram: [@samreachyan](https://t.me/samreachyan)
 
 ## Languages
 
